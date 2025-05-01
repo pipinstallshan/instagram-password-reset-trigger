@@ -44,8 +44,5 @@ This will cause Instagram to send a recovery email or SMS to the account.
 - Do not use this on accounts you do not own. It may violate Instagram's Terms of Service and/or privacy laws.
 - There are no rate limits or advanced error handling — use responsibly.
 
-### 📜 License
-MIT License
-
 ### 🙏 Disclaimer
 This tool is provided for educational purposes only; using it to harass or target others may be illegal and/or violate Instagram's Terms of Service. The author is not responsible for any misuse.
